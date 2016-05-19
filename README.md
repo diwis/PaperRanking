@@ -3,7 +3,7 @@
 # Ilias Kanellos, IMIS, Athena Research Center
 # This is a collection of Paper Ranking method implementations, developed for a survey we wrote.
 
-# -------- How to run ranking method codes -------- #
+# ---------- How to run ranking method codes ---------- #
 
 All Ranking methods provided consist of a main script and a number of complementaty map-reduce scripts.
 Most methods are iterative and the complementary map-reduce scripts implement various steps of a single
@@ -28,9 +28,9 @@ will be written/deleted during the calculations conducted by each script. Since 
 names, no more than one instance of a ranking script should run at any given time, in any directory. If
 more than one script is running the scripts will crash.
 
-# -------------------------------------------------------------------- #
+# ----------------------------------------------------------------------- #
 
-# ------------------------ Expected input ---------------------------- #
+# ---------------------- Expected input --------------------------- #
 
 All ranking scripts expect an input file name, among a number of other parameters.
 Care has been given so that the input file format is the same for all methods, and
