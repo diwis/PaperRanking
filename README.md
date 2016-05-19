@@ -74,7 +74,7 @@ NOTE: ALL author name MUST begin with a letter character.
 
 # ------------------------------------------------------------------------- #
 
-# ---------------------- Output --------------------------------------- #
+# ----------------------- Output --------------------------------------- #
 
 Each ranking script will after completion output a final file. This file will include most of the parameters
 used for running the method. This file is not necessarily sorted based on paper scroes, but will include their
