@@ -28,7 +28,7 @@ will be written/deleted during the calculations conducted by each script. Since 
 names, no more than one instance of a ranking script should run at any given time, in any directory. If
 more than one script is running the scripts will crash.
 
-# ------------------------------------------------------------------------ #
+# ----------------------------------------------------------------------- #
 
 # ---------------------- Expected input --------------------------- #
 
