@@ -72,7 +72,7 @@ This denotes that an author named "o.dippel" has written the paper with id "10.1
 
 NOTE: ALL author name MUST begin with a letter character.
 
-# ------------------------------------------------------------------------ #
+# ------------------------------------------------------------------------- #
 
 # ---------------------- Output --------------------------------------- #
 
@@ -84,7 +84,7 @@ In most cases, the final paper score can be found either in a final column, afte
 the last part of column 2. Exceptions to this are CiteRank and TimeAwareRanking. For these methods, the paper
 scores should be found in column 3, except when running TimeAwareRanking in RAM mode, where column 2 is valid.
 
-# -------------------------------------------------------------------- #
+# ------------------------------------------------------------------------- #
 
 All codes are provided under a gnu/gpl licence.
 
