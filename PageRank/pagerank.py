@@ -47,6 +47,9 @@ else:
 	filename = sys.argv[1]
 	# Calculate total number of nodes
 	node_count = os.popen("wc -l " + filename + " | cut -f1 -d ' '").read()
+	# HADOOP COMMAND #
+	# node_count = os.popen("hadoop dfs -cat /user/hduser/" + filename + "/* | wc -l  | cut -f1 -d ' '").read()
+	# -------------- #
 	node_count = int(node_count)
 	alpha = float(sys.argv[2])
 	convergence_error = float(sys.argv[3])
