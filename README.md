@@ -71,6 +71,7 @@ An example is:
 This denotes that an author named "o.dippel" has written the paper with id "10.1103/PhysRevA.49.4415" in which he was one of 3 collaborators. The author's current score is 2.57270463293e-06, and his previous score is 0.
 
 NOTE: ALL author name MUST begin with a letter character.
+NOTE2: For FUTURERANK file names in any hdfs directory with author data MUST begin with "part"
 
 # ------------------------------------------------------------------------- #
 
