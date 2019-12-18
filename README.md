@@ -96,3 +96,15 @@ the paper scores are found in column 3.
 #### Licence
 
 All codes are provided under a gnu/gpl licence.
+
+#### How to cite
+```
+@ARTICLE{Kanellos_TKDE2019, 
+  author={I. {Kanellos} and T. {Vergoulis} and D. {Sacharidis} and T. {Dalamagas} and Y. {Vassiliou}}, 
+  journal={IEEE Transactions on Knowledge and Data Engineering}, 
+  title={Impact-Based Ranking of Scientific Publications: A Survey and Experimental Evaluation}, 
+  year={2019}, 
+  doi={10.1109/TKDE.2019.2941206}, 
+  ISSN={2326-3865}, 
+}
+```
